@@ -9,7 +9,7 @@ const PORT = process.env.PORT || 5000;
 
 app.use(express.json());
 
-const uri = process.env.URI;  // Your actual MongoDB URI
+const uri = process.env.MONGOURL;  // Your actual MongoDB URI
 let db, usersCollection, committeesCollection;
 
 // Connect to MongoDB
