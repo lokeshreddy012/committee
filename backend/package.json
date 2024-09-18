@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "test",
   "license": "ISC",
   "dependencies": {
     "backend": "file:",
@@ -18,5 +18,5 @@
     "mongoose": "^8.6.2",
     "dotenv": "^16.4.5"
   },
-  "description": ""
+  "description": "test"
 }
